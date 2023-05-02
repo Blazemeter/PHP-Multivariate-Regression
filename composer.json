@@ -1,0 +1,15 @@
+{
+    "name": "blazemeter/php-multivariate-regression",
+    "description": "php-multivariate-regression is a PHP linear regression, to create new models based on existing data and calculate predictions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shankar Manamalkav",
+            "email": "nshankar@ufl.edu"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
