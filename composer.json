@@ -1,5 +1,5 @@
 {
-    "name": "blazemeter/php-multivariate-regression",
+    "name": "carbocation/php-multivariate-regression",
     "description": "php-multivariate-regression is a PHP linear regression, to create new models based on existing data and calculate predictions",
     "type": "library",
     "license": "MIT",
